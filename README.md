@@ -8,8 +8,8 @@
 - 📫 How to reach me **kalpeshvish7@gmail.com**
 
 ### About Me 🚀
-🎓 I’m an Programming enthusiast & a sophomore pursuing my Bachelors in Electronics and Communication Engineering, at National Institute of Technology Meghalaya.</br>
-👨‍💻  I am passionate about Web Dev, Competitive Programming & I enjoy learning new things. </br>
+🎓 I’m a Programming enthusiast & a sophomore pursuing my Bachelors in Electronics and Communication Engineering, at National Institute of Technology Meghalaya.</br>
+👨‍💻 I am passionate about Web Dev, Competitive Programming & I enjoy learning new things. </br>
 
 
 <h3 align="left">Connect with me:</h3>
