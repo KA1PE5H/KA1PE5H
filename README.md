@@ -8,13 +8,13 @@
 - 📫 How to reach me **kalpeshvish7@gmail.com**
 
 ### About Me 🚀
-🎓 I’m an Programming enthusiast & a sophomore pursuing my Bachelors in Eectronics and Communication Engineering, at National Institute of Technology Meghalaya.</br>
+🎓 I’m an Programming enthusiast & a sophomore pursuing my Bachelors in Electronics and Communication Engineering, at National Institute of Technology Meghalaya.</br>
 👨‍💻  I am passionate about Web Dev, Competitive Programming & I enjoy learning new things. </br>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/kalpesh-vishwakarma-508540173/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kalpeshvishwakarma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kalpesh-vishwakarma-508540173/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kalpeshvishwakarma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
